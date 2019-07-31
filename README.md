@@ -1,2 +1,2 @@
-# ENCM_517_Practical_Application
- Applied Theories of Computer Arithmetic and Computational Complexity
+# ENCM 517 Practical Application
+ This project is meant to apply the theories learned at the University of Calgary's class ENCM 517 (Computer Arithmetic and Computational Complexity). This will includes writing core arithmetic algorithms (addition, multiplication, division etc.) as well as cryptography algorithms (RSA, DH). Each of these written algorithms will be timed against standard algorithms and compared in both C++ and Python.
